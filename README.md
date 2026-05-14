@@ -1,22 +1,23 @@
-# TryHackMe-Journey
+# 🚀 TryHackMe Journey
 
-My journey from **zero to ethical hacker** (Started May 2026)  
-**Owner:** Rohan Pranav | 1st Year Engineering Student
+My journey from **complete beginner to ethical hacker**  
+**Started:** May 2026  
+**Current Status:** Pre Security Path (Module 2)
 
-## Progress
-- **Pre Security Path** → In Progress
-- **Current Module:** Module 2
+### About Me
+- 1st Year Engineering Student
+- Age: 17
+- Daily Grind: 2 hours consistent
 
-## Goals
+### Goals
 - Master Penetration Testing
-- Build strong portfolio
-- Get ahead in cybersecurity
+- Build strong GitHub portfolio
+- Be ahead of my peers
 
-## Folders
-- **Pre-Security** → All TryHackMe Pre Security modules
-- **Notes** → Important commands & concepts
-- **Writeups** → Detailed machine writeups (will add soon)
+### Current Progress
+- **Pre Security** → In Progress (Module 2)
+- Next Target: Finish Pre Security Path
 
 ---
 
-**Status:** Consistent daily grind (2 hours/day)
+**Last Updated:** 14 May 2026
